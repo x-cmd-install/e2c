@@ -5,7 +5,7 @@ about:
   head: b84620f
   archived: false
   latestVersion: "v0.5.0"
-  collectedAt: 2026-09-07T05:24:35Z
+  collectedAt: 2026-09-07T19:09:45Z
 timeline:
   created: 2025-06-04
   lastCommit: 2026-04-23
@@ -81,7 +81,7 @@ total:
   commit: 176
 ---
 path: /home/runner/.x-repo/github.com/nlamirault/e2c
-collectedAt: 2026-09-07T05:24:35Z
+collectedAt: 2026-09-07T19:09:46Z
 loc:
   Go:
     code: 1602
@@ -262,7 +262,7 @@ checks:
     details: null
 ---
 eget:
-  collectedAt: 2026-09-07T05:24:36+00:00
+  collectedAt: 2026-09-07T19:09:47+00:00
   platform:
     darwin/arm64:
       name:  e2c_darwin_arm64_v0.5.0
