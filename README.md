@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-18 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last180d | 2026-03-20 | 1 | 10 | 11 | 0 | 0 | 11 |
-| 360d | 2025-09-21 | 1 | 36 | 12 | 0 | 0 | 37 |
-| last720d | 2024-09-26 | 4 | 63 | 13 | 0 | 0 | 176 |
+| 30d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-19 | 0 | 0 | 4 | 0 | 0 | 0 |
+| last180d | 2026-03-21 | 1 | 10 | 11 | 0 | 0 | 11 |
+| 360d | 2025-09-22 | 1 | 36 | 12 | 0 | 0 | 37 |
+| last720d | 2024-09-27 | 4 | 63 | 13 | 0 | 0 | 176 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for e2c lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T06:02:32Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T05:58:02Z._
