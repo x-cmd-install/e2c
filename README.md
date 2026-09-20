@@ -4,7 +4,7 @@
 
 A terminal-based UI application for managing AWS EC2 instances.
 
-![e2c](https://repo.x-cmd.io/e2c.svg)
+[![x-cmd/install — e2c Code Quality Monitoring Repo Card](https://repo.x-cmd.io/e2c.svg)](https://x-cmd.com/install/e2c)
 
 ## Install
 
@@ -30,8 +30,8 @@ Overall score: **6.5 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Code-Review** (0/10) — Found 0/2 approved changesets -- score normalized to 0
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 
 ## Source
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 1 | 10 | 11 | 0 | 0 | 11 |
-| 360d | 2025-09-23 | 1 | 36 | 12 | 0 | 0 | 37 |
-| last720d | 2024-09-28 | 4 | 63 | 13 | 0 | 0 | 176 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 4 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 1 | 10 | 11 | 0 | 0 | 4 |
+| 360d | 2025-09-25 | 1 | 36 | 12 | 0 | 0 | 37 |
+| last720d | 2024-09-30 | 4 | 63 | 13 | 0 | 0 | 176 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for e2c lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:37:41Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:38:28Z._
