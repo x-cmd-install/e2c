@@ -4,7 +4,7 @@
 
 A terminal-based UI application for managing AWS EC2 instances.
 
-[![x-cmd/install — e2c Code Quality Monitoring Repo Card](https://repo.x-cmd.io/e2c.svg)](https://x-cmd.com/install/e2c)
+[![x-cmd/install — e2c Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/e2c.svg)](https://x-cmd.com/install/e2c)
 
 ## Install
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 1 | 10 | 11 | 0 | 0 | 4 |
-| 360d | 2025-09-27 | 1 | 36 | 12 | 0 | 0 | 37 |
-| last720d | 2024-10-02 | 4 | 63 | 13 | 0 | 0 | 176 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 4 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 1 | 4 | 11 | 0 | 0 | 4 |
+| 360d | 2025-09-28 | 1 | 36 | 12 | 0 | 0 | 37 |
+| last720d | 2024-10-03 | 4 | 63 | 13 | 0 | 0 | 176 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for e2c lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:07:58Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:54:07Z._
