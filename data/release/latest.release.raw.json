@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 64406,
       "digest": "sha256:ccebf458016fd0c7e82e0a26273fa8d26fb8873c77f1d82ab72b8d4d6f85d2d9",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-03-27T07:20:50Z",
       "updated_at": "2026-03-27T07:20:50Z",
       "browser_download_url": "https://github.com/nlamirault/e2c/releases/download/v0.5.0/e2c_0.5.0_linux_amd64.sbom.json"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 11759800,
       "digest": "sha256:1d3d37bc20481fa7b41421bce2991f7cb399c5e2e1b1034d257db854cc14c5c0",
-      "download_count": 33,
+      "download_count": 34,
       "created_at": "2026-03-27T07:20:48Z",
       "updated_at": "2026-03-27T07:20:49Z",
       "browser_download_url": "https://github.com/nlamirault/e2c/releases/download/v0.5.0/e2c_linux_amd64_v0.5.0"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 22483,
       "digest": "sha256:4f06e8a89dd4fa7d59b2ef25441e1982ac0faabaf2ab3a35d87c114a2bb37b9b",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-03-27T07:21:40Z",
       "updated_at": "2026-03-27T07:21:40Z",
       "browser_download_url": "https://github.com/nlamirault/e2c/releases/download/v0.5.0/multiple.intoto.jsonl"
