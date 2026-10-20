@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 12046448,
       "digest": "sha256:fcd5c55586977ad193f583101038e904cb4ff42c0fb5d277cac74b79633aec94",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-03-27T07:20:48Z",
       "updated_at": "2026-03-27T07:20:49Z",
       "browser_download_url": "https://github.com/nlamirault/e2c/releases/download/v0.5.0/e2c_darwin_amd64_v0.5.0"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 11759800,
       "digest": "sha256:1d3d37bc20481fa7b41421bce2991f7cb399c5e2e1b1034d257db854cc14c5c0",
-      "download_count": 59,
+      "download_count": 60,
       "created_at": "2026-03-27T07:20:48Z",
       "updated_at": "2026-03-27T07:20:49Z",
       "browser_download_url": "https://github.com/nlamirault/e2c/releases/download/v0.5.0/e2c_linux_amd64_v0.5.0"
