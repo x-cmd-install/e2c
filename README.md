@@ -30,8 +30,8 @@ Overall score: **6.5 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Code-Review** (0/10) — Found 0/2 approved changesets -- score normalized to 0
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 
 ## Source
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-01 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-02 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-04 | 0 | 0 | 6 | 0 | 0 | 0 |
-| 360d | 2025-11-05 | 1 | 29 | 12 | 0 | 0 | 30 |
-| last720d | 2024-11-10 | 4 | 63 | 13 | 0 | 0 | 176 |
+| 30d | 2026-10-02 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-02 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-03 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-05 | 0 | 0 | 6 | 0 | 0 | 0 |
+| 360d | 2025-11-06 | 1 | 29 | 12 | 0 | 0 | 29 |
+| last720d | 2024-11-11 | 4 | 63 | 13 | 0 | 0 | 176 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for e2c lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:18:22Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:48:51Z._
